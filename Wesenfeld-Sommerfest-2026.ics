@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sommerfest//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee52b768-b089-452d-a925-73d7e447548f@sommerfest2026
+DTSTAMP:20251019T060041Z
+SUMMARY:Sommerfest 2026
+DTSTART:20260627T100000Z
+DTEND:20260627T180000Z
+LOCATION:Naturfreundehaus Wiesental, Waghäusel, Deutschland
+DESCRIPTION:👉 Alle Infos & Routenbeschreibung findest Du hier:\n🔗 https://wesenfeld.my.canva.site/
+URL;VALUE=URI:https://wesenfeld.my.canva.site/
+END:VEVENT
+END:VCALENDAR
